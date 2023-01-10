@@ -16,6 +16,17 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Code LAB"
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
+lunr:
+  search_within_pages    : true # true, false (default)
+# algolia:
+#   application_id         : DUJTH7ISIC # YOUR_APPLICATION_ID
+#   index_name             : # YOUR_INDEX_NAME
+#   search_only_api_key    : fbce08fb2442ae44fae3a77b4ee7f2a1 # YOUR_SEARCH_ONLY_API_KEY
+#   powered_by             : # true (default), false
+
 # title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Byunk"
@@ -169,17 +180,17 @@ tag_archive:
 include:
   # - .htaccess
   - _pages
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Defaults
 defaults:
@@ -194,6 +205,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "sidebar-category"
   # _pages
   - scope:
       path: ""
@@ -201,3 +214,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Collections
+collections:
+  algorithm:
+    output: true
+    permalink: /:collection/:path/
