@@ -3,6 +3,8 @@ title: Baekjoon
 layout: collection
 permalink: /baekjoon/
 collection: baekjoon
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.Baekjoon %}
