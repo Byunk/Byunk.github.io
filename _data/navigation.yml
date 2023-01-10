@@ -22,7 +22,7 @@ sidebar-category:
   - title: "Projects"
     children:
       - title: "pintOS"
-        url: /categories/pintOS/
+        url: /pintOS/
       - title: "Meetup"
         url: /categories/meetup/
       - title: "Treevial"

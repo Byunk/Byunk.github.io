@@ -1,8 +1,10 @@
 ---
-title: "pintOS"
+title: pintOS
 layout: collection
-permalink: categories/pintos
-author_profile: true
+permalink: /pintos/
+collection: pintos
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.pintOS %}

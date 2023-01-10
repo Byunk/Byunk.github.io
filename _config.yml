@@ -228,6 +228,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _pintos
+  - scope:
+      path: ""
+      type: pintos
+    values:
+      layout: single
+      author_profile: true
 
 # Collections
 collections:
@@ -235,5 +242,8 @@ collections:
 #     output: true
 #     permalink: /categories/:collection/:path/
   baekjoon:
+    output: true
+    permalink: /:collection/:path/
+  pintos:
     output: true
     permalink: /:collection/:path/
