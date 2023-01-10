@@ -8,7 +8,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// @import '//cdn.jsdelivr.net/korean-webfonts/1/corps/godo/Godo/GodoM.woff2';
 @font-face {
     font-family: 'Godo';
     font-style: normal;
