@@ -27,7 +27,7 @@ lunr:
 #   search_only_api_key    : fbce08fb2442ae44fae3a77b4ee7f2a1 # YOUR_SEARCH_ONLY_API_KEY
 #   powered_by             : # true (default), false
 
-# title_separator          : "-"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Byunk"
 description              : "Code Laboratory."
@@ -37,6 +37,11 @@ repository               : "Byunk/Byunk.github.io" # GitHub username/repo-name e
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-byunk-github-io"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -206,6 +211,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_label: Table of Contents
       sidebar:
         nav: "sidebar-category"
   # _pages
