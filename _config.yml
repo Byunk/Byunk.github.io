@@ -38,6 +38,8 @@ teaser                   : "/assets/images/code-lab-teaser.png" # path of fallba
 # logo                     : "/assets/images/code-lab-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
+og_image: "/assets/images/code-lab-thumbnail.png"
+
 comments:
   provider: "disqus"
   disqus:
