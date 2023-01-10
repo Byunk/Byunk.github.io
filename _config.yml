@@ -166,6 +166,9 @@ tag_archive:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+include:
+  # - .htaccess
+  - _pages
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
@@ -188,6 +191,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
