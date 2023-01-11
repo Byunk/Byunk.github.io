@@ -15,7 +15,7 @@ sidebar-category:
   - title: "Algorithm (c++)"
     children:
       - title: "Algorithm Study"
-        url: /categories/algorithm/
+        url: /algorithm/
       - title: "baekjoon (kor)"
         url: /baekjoon/
 

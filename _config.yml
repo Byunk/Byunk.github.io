@@ -223,6 +223,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _algorithm
+  - scope:
+      path: ""
+      type: _algorithm
+    values:
+      layout: single
+      author_profile: true
   # _baekjoon
   - scope:
       path: ""
@@ -240,9 +247,9 @@ defaults:
 
 # Collections
 collections:
-#   algorithm:
-#     output: true
-#     permalink: /categories/:collection/:path/
+  algorithm:
+    output: true
+    permalink: //:collection/:path/
   baekjoon:
     output: true
     permalink: /:collection/:path/

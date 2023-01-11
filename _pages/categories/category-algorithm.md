@@ -1,8 +1,10 @@
 ---
-title: "Algorithm Study"
+title: Algorithm Study
 layout: collection
-permalink: categories/algorithm
-author_profile: true
+permalink: /algorithm/
+collection: algorithm
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.Algorithm %}
