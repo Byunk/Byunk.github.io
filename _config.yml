@@ -34,11 +34,11 @@ description              : "Code Laboratory."
 url                      : "byunk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Byunk/Byunk.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/code-lab-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# teaser                   : "/assets/images/code-lab-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "/assets/images/code-lab-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
-og_image: "/assets/images/code-lab-thumbnail.png"
+og_image: /assets/images/code-lab-thumbnail.png
 
 comments:
   provider: "disqus"
@@ -52,7 +52,7 @@ github_username: byunk
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "UA-253574678-1"
     anonymize_ip         : # true, false (default)
@@ -209,7 +209,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      # comments: true
+      comments: true
       share: true
       related: true
       toc: true
