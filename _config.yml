@@ -244,6 +244,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _meetup
+  - scope:
+      path: ""
+      type: meetup
+    values:
+      layout: single
+      author_profile: true
 
 # Collections
 collections:
@@ -254,5 +261,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   pintos:
+    output: true
+    permalink: /:collection/:path/
+  meetup:
     output: true
     permalink: /:collection/:path/

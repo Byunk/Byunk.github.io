@@ -1,8 +1,10 @@
 ---
-title: "Meetup"
+title: Meetup
 layout: collection
-permalink: categories/meetup
-author_profile: true
+permalink: /meetup/
+collection: meetup
+sidebar:
+    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.Meetup %}
