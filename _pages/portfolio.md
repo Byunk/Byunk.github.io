@@ -16,9 +16,13 @@ Github : [Byunk](http://github.com/byunk)
 
 LinkedIn : [Kyungho Byoun](https://www.linkedin.com/in/kyungho-byoun-49b262240/)
 
+<br>
+
 # Introduction
 
 I am a backend developer who totally obssed with making applications and doing funny projects. JAVA, C++ are my favorite PL and Nodejs, Spring boot are my best friends.
+
+<br>
 
 # Experience
 
@@ -53,6 +57,8 @@ Undergraduate Individual Research.
 2020.10 - 2022.07
 
 Airforce Academy of Republic of Korea.
+
+<br>
 
 # Education
 
