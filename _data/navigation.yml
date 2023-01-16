@@ -1,7 +1,9 @@
 # main links
 main:
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Projects"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /project/
   - title: "Algorithm"
     url: /categories/algorithm/
   # - title: "Sample Posts"
@@ -24,7 +26,7 @@ sidebar-category:
       - title: "pintOS"
         url: /pintos/
       - title: "Meetup"
-        url: /categories/meetup/
+        url: /meetup/
       - title: "Treevial"
         url: /categories/treevial/
 
