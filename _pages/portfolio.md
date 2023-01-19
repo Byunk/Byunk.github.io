@@ -28,6 +28,8 @@ I am a backend developer who totally obssed with making applications and doing f
 
 ### Software Engineer, KAIST KI-ITC
 
+---
+
 2022.07 - now
 
 [KAIST KI-ITC, Augmented Reality Research Center, Daejeon](https://itc.kaist.ac.kr/)
@@ -37,6 +39,8 @@ Undergraduate Internship in Integrated Sensor Team
 Implemented in Nodejs an smart mattress server which performs pressure sensor data analysis. Coducted time series anomaly detection with MATLAB. Along with one other team member who implemented loggin server. It scheduled to be released as a product of KYUNG DONG NAVIEN CO.,LTD in summer, 2023.
 
 ### KAIST APP Startup Competition
+
+---
 
 2022.08 - 2022.12
 
@@ -53,6 +57,8 @@ Undergraduate Individual Research.
 [Lambert Algorithm](https://github.com/Byunk/lambert_algorithm), Multi-Revolution Lambert Problem optimization.
 
 ### Compulsory Military Service
+
+---
 
 2020.10 - 2022.07
 
