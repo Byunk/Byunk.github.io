@@ -130,12 +130,84 @@ vec.erase(vec.begin() + 1, vec.begin() + 2); // {2, 4}
 
 ```clear()``` : 모든 원소를 제거
 
-```reserve(capacity)``` : 벡터ㅔ서 사용할 용량을 지정
+```reserve(capacity)``` : 벡터에서 사용할 용량을 지정
 
 ```shrink_to_fit()``` : 여분의 메모리 공간 해제
 
 vector는 array에 대한 좋은 대안이고, 더욱 많은 유연성을 제공하면서도 성능면에서 큰 저하가 없기 때문에, 매우 자주 사용되는 STL임.
 {: .notice}
+
+# 연결된 자료구조 (Linked data structures)
+
+## std::forward_list
+
+연속된 자료 구조에서는 데이터 중간에 자료의 추가/삭제가 비효율적임. 예를 들어, 탭을 지원하는 브라우저는 언제든 새로운 탭을 임의의 위치에 옮길 수 있어야 함. 기본적인 연결 리스트는 포인터를 하나 가지고 있고, 메모리 할당/해제가 가능해야 함.
+
+forward_list에서 삽입/삭제는 O(1)이며, 대신 전체 리스트의 크기 반환이나, 첫번째 원소 제외한 나머지 원소에 직접 접근등은 지원하지 않음.
+
+```cpp
+std::forward_list<int> fwd_list = {1, 2, 3};
+
+fwd_list.push_front(0); // {0, 1, 2, 3}
+
+auto it = fwd_list.begin();
+
+fwd_list.insert_after(it, 5); // {0, 5, 1, 2, 3}
+
+fwd_list.insert_after(it, 6); // {0, 6, 5, 1, 2, 3}
+
+fwd_list.pop_front(); // {6, 5, 1, 2, 3}
+
+fwd_list.erase_after(it); // {5, 1, 2, 3}
+
+fwd_list.erase_after(it, fwd_list.end()); // {5}
+```
+
+추가로, 모든 원소값을 검삭하여 삭제하는 `remove()`와 `remove_if()`도 지원함.
+
+`remove_if()`에서는 [Lambda Expression](https://learn.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170)을 통해 predicate를 전달할 수 있음.
+
+## std::list
+
+List는 doubly-linked list구조로 되어 있기에, forward_list에 비해 더 많은 기능이 지원되고 더 많은 메모리를 사용함.
+
+`insert_after()` 대신 `insert()`가 지원되고, `pop_back()`, `push_back()`등이 추가로 지원됨.
+
+### 반복자 무효화
+
+자료구조에서 반복자는 메모리 주소를 가리키는 포인터인데, 컨테이너가 변경되면 반복자가 무효화되어 예상치 못한 결과가 일어날 수 있음.
+
+vector에서는 경우에 따라 새로 메모리를 할당하고, 기존의 원소를 복사하는 동작이 발생함. 따라서 원소 삽입/삭제 이후에 반복자가 무효화될 수 있음.
+
+반면에, list 또는 forward_list에서 삽입 동작은 반복자 유효성에 영향을 미치지 않음. 삭제 동작에서도 삭제된 원소를 제외한 나머지 반복자는 그대로 사용할 수 있음.
+
+# 기타 자료구조
+
+## std::deque
+
+deque은 연결 / 연속의 두가지 방식이 섞여 있는 형태임. (deque은 double-ended queue의 약자) Deque은 아래를 만족해야 함.
+
+1. `push_front()`, `pop_front()`, `push_back()`, `pop_back()` 동작이 O(1)의 시간복잡도를 가져야 함.
+2. 모든 원소에 대한 random access가 O(1)의 시간복잡도를 가져야 함.
+3. 덱 중간에서의 원소 삽입 및 삭제는 O(n)으로 동작해야 하고, 실제로는 n/2단계로 동작함.
+
+Deque은 단일 메모리 청크를 사용하지 않고, 대신 여러 개의 메모리 청크를 사용함. 이 경우, 청크의 인덱스 및 크기를 이용해 어느 청크인지 특정할 수 있으므로 O(1)로 random access가 가능함. `push_front()`의 경우, 첫 번째 청크에 여유 공간이 없다면 새로운 청크를 할당하고, 이 주소를 첫번째 청크로 설정함. 이 경우 메모리 공간할당은 필요하지만, 원소를 이동시킬 필요가 없음.
+
+## 컨테이너 어댑터
+
+위의 컨테이너들은 매우 Low 개념의 자료구조를 바탕으로 만들어짐. C++에는 이런 컨테이너들을 기반으로 만들어지 컨테이너가 있는데, 대부분 유용한 기능을 제공하고 효율적임.
+
+### Stack
+
+Deque를 기반으로 만들어졌으며 LIFO구조를 사용 (`push()`, `pop()`). 모든 연산의 시간복잡도가 O(1)
+
+### Queue
+
+Deque를 기반으로 만들어졌으며 FIFO구조를 사용 (`push()`, `pop()`). 모든 연산의 시간복잡도가 O(1)
+
+### Priority Queue
+
+Heap의 자료구조를 제공. 최대/최소 원소에 접근하는 동작이 O(logn)으로 동작. Vector를 기반으로 만들어졌으며, 기본적으로 max heap이 생성됨.
 
 # Reference
 
