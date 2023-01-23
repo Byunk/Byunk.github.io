@@ -20,7 +20,7 @@ LinkedIn : [Kyungho Byoun](https://www.linkedin.com/in/kyungho-byoun-49b262240/)
 
 # Introduction
 
-I am a backend developer who totally obssed with making applications and doing funny projects. JAVA, C++ are my favorite PL and Nodejs, Spring boot are my best friends.
+I am a backend developer who totally obsessed with making applications and doing funny projects. JAVA, C++ are my favorite PL and Nodejs, Spring boot are my best friends.
 
 <br>
 
