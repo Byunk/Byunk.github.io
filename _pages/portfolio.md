@@ -36,7 +36,7 @@ I am a backend developer who totally obsessed with making applications and doing
 
 Undergraduate Internship in Integrated Sensor Team
 
-Implemented in Nodejs an smart mattress server which performs pressure sensor data analysis. Coducted time series anomaly detection with MATLAB. Along with one other team member who implemented loggin server. It scheduled to be released as a product of KYUNG DONG NAVIEN CO.,LTD in summer, 2023.
+Implemented in Nodejs an smart mattress server which performs pressure sensor data analysis. Conducted time series anomaly detection with MATLAB. Along with one other team member who implemented logging server. It scheduled to be released as a product of KYUNG DONG NAVIEN CO.,LTD in summer, 2023.
 
 ### KAIST APP Startup Competition
 
@@ -46,7 +46,7 @@ Implemented in Nodejs an smart mattress server which performs pressure sensor da
 
 Leadership in competition team, Treevial.
 
-Led and desigend carbon credits mediation service with 6 members including myself. Mainly construted business model and whole service as well as constructed AWS infrastructure. Finalist of the competition, and won about *5500$ (7000K WON)*.
+Led and desigend carbon credits mediation service with 6 members including myself. Mainly built business model and full service as well as constructed AWS infrastructure. Finalist of the competition, and won about *5500$ (7000K WON)*.
 
 ### KAIST SAI Lab
 
@@ -54,7 +54,7 @@ Led and desigend carbon credits mediation service with 6 members including mysel
 
 Undergraduate Individual Research.
 
-[Lambert Algorithm](https://github.com/Byunk/lambert_algorithm), Multi-Revolution Lambert Problem optimization.
+[Lambert Algorithm](https://github.com/Byunk/lambert_algorithm), Dealing with Optimization Problem, Multi-Revolution Lambert Problem optimization.
 
 ### Compulsory Military Service
 
