@@ -31,7 +31,7 @@ lunr:
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Byunk"
 description              : "Code Laboratory."
-url                      : "byunk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://byunk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Byunk/Byunk.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/code-lab-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -44,9 +44,7 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "https-byunk-github-io"
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+    
 # twitter_username: jekyllrb
 github_username: byunk
 
