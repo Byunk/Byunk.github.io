@@ -211,5 +211,5 @@ Heap의 자료구조를 제공. 최대/최소 원소에 접근하는 동작이 O
 
 # Reference
 
-![코딩테스트를 위한 자료구조와 알고리즘 with C++](../_site/assets/images/230112.png)
+![코딩테스트를 위한 자료구조와 알고리즘 with C++](/assets/images/230112.png)
 
