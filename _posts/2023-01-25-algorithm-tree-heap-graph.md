@@ -179,9 +179,9 @@ EX) 컴퓨터 파일 시스템, 컴파일러
 
 - Baekjoon
 
-[트리인가?(6416)](/_posts/2023-01-24-baekjoon-6416.md)
+[트리인가?(6416)](/baekjoon/baekjoon-6416)
 
-[이진 검색 트리(5639)](/_posts/2023-01-24-baekjoon-5639.md)
+[이진 검색 트리(5639)](/baekjoon/baekjoon-5639)
 
 # 힙
 
