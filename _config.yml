@@ -212,6 +212,7 @@ defaults:
       related: true
       toc: true
       toc_label: Table of Contents
+      toc_sticky: true
       sidebar:
         nav: "sidebar-category"
   # _pages
