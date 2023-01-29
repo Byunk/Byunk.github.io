@@ -250,6 +250,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _allcl
+  - scope:
+      path: ""
+      type: allcl
+    values:
+      layout: single
+      author_profile: true
 
 # Collections
 collections:
@@ -263,5 +270,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   meetup:
+    output: true
+    permalink: /:collection/:path/
+  allcl:
     output: true
     permalink: /:collection/:path/

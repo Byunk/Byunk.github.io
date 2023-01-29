@@ -21,6 +21,8 @@ sidebar-category:
         url: /pintos/
       - title: "Meetup"
         url: /meetup/
+      - title: "ALLCL"
+        url: /allcl/
       - title: "Treevial"
         url: /categories/treevial/
 
