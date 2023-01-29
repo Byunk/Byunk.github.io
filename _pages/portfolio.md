@@ -4,6 +4,7 @@ layout: single
 permalink: /portfolio/
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 ![profile](/assets/images/image_portfolio.jpeg){: width="25%" height="25%"}
