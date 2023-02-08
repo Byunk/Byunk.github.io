@@ -7,15 +7,18 @@ toc: true
 toc_sticky: true
 ---
 
-![main](/assets/images/treevial/mainpage.png){: width="50%" height="50%"}
+<p align="center"><img src="/assets/images/treevial/mainpage.png" height="250px" width="500px"></p>
 
 ## 기업-산주 간 탄소배출권 중개 플랫폼.
 
 소규모 산주(5ha 미만) 들은 전체 산림의 38.6%를 보유하고 있고, 2,000만 톤 이상의 탄소흡수 효과를 내고 있지만, 0.05%의 산주만이 탄소배출권을 할당받고 있습니다. 반면, 탄소배출권 시장은 불규칙한 수요 및 공급, 현물거래 위주, 작은 시장 규모에 의해 가격의 급등 락을 반복하고 있고, 기업은 구매계획 수립에 어려움을 겪고 있습니다. 우리는 탄소배출권 중개 플랫폼을 통해, 위의 수요-공급의 불균형을 해소하고, 산림을 확대합니다.
 
-|||
-|----|---|
-|![chart1](/assets/images/treevial/chart1.png){: width="50%" height="50%"}|![chart2](/assets/images/treevial/chart2.png){: width="50%" height="50%"}|
+<p style="width:50%;height:400px;float:left;overflow:hidden;">
+<img alt="1" src="/assets/images/treevial/chart1.png"  style="height:100%;"/>
+</p>
+<p style="width:50%;height:400px;overflow:hidden;">
+<img alt="2" src="/assets/images/treevial/chart2.png"  style="height:100%;"/>
+</p>
 
 ### Problem
 
@@ -60,13 +63,20 @@ Framework : [Jira](https://www.atlassian.com/software/jira)
 "react-native": "0.70.4"
 ```
 
-|||
-|----|---|
-|![1](/assets/images/treevial/treevial1.png){: width="25%" height="25%"}|![2](/assets/images/treevial/treevial2.png){: width="25%" height="25%"}|
+<p style="width:50%;height:400px;float:left;overflow:hidden;">
+<img alt="1" src="/assets/images/treevial/treevial1.png"  style="height:100%;"/>
+</p>
+<p style="width:50%;height:400px;overflow:hidden;">
+<img alt="2" src="/assets/images/treevial/treevial2.png"  style="height:100%;"/>
+</p>
 
-|||
-|----|---|
-|![3](/assets/images/treevial/treevial3.png){: width="25%" height="25%"}|![4](/assets/images/treevial/treevial4.png){: width="25%" height="25%"}|
+<p style="width:50%;height:400px;float:left;overflow:hidden;">
+<img alt="1" src="/assets/images/treevial/treevial3.png"  style="height:100%;"/>
+</p>
+<p style="width:50%;height:400px;overflow:hidden;">
+<img alt="2" src="/assets/images/treevial/treevial4.png"  style="height:100%;"/>
+</p>
+
 
 ### Backend
 
