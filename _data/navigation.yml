@@ -24,7 +24,7 @@ sidebar-category:
       - title: "ALLCL"
         url: /allcl/
       - title: "Treevial"
-        url: /categories/treevial/
+        url: /treevial/
 
   - title: "Records"
     children:
