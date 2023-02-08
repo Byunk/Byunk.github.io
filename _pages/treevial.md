@@ -15,7 +15,7 @@ toc_sticky: true
 
 |||
 |----|---|
-|![chart1](/assets/images/treevial/chart1.png)|![chart2](/assets/images/treevial/chart2.png)|
+|![chart1](/assets/images/treevial/chart1.png){: width="50%" height="50%"}|![chart2](/assets/images/treevial/chart2.png){: width="50%" height="50%"}|
 
 ### Problem
 
@@ -62,11 +62,11 @@ Framework : [Jira](https://www.atlassian.com/software/jira)
 
 |||
 |----|---|
-|![1](/assets/images/treevial/treevial1.png)|![2](/assets/images/treevial/treevial2.png)|
+|![1](/assets/images/treevial/treevial1.png){: width="25%" height="25%"}|![2](/assets/images/treevial/treevial2.png){: width="25%" height="25%"}|
 
 |||
 |----|---|
-|![3](/assets/images/treevial/treevial3.png)|![4](/assets/images/treevial/treevial4.png)|
+|![3](/assets/images/treevial/treevial3.png){: width="25%" height="25%"}|![4](/assets/images/treevial/treevial4.png){: width="25%" height="25%"}|
 
 ### Backend
 
@@ -86,4 +86,4 @@ Framework : [Jira](https://www.atlassian.com/software/jira)
 
 ## 프로젝트 결과
 
-*KAIST APP 창업프로그램 본선진출 및 700만원(5500$) 상당의 초기창업지원금 수령.*
+**KAIST APP 창업프로그램 본선진출 및 700만원(5500$) 상당의 초기창업지원금 수령.**
