@@ -25,7 +25,7 @@ ___
 
 Proactive, motivated Junior Software Engineer with high interest in backend development and project management. Experienced in leading projects and designing solutions to specific problems.
 
-## [Resume](/assets/images/about/Kyungho's%20Resume.pdf)
+## <i class='fa fa-address-book' aria-hidden='true'></i> [Resume](/assets/images/about/Kyungho's%20Resume.pdf)
 
 ## [See my projects!](/projects/)
 
