@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/splash2.jpg
   actions:
-    - label: "<i class='fa fa-user' aria-hidden='true'></i> Who are you?"
+    - label: "<i class='fa fa-user' aria-hidden='true'></i> Who am I?"
       url: "/about/"
     - label: "<i class='fa fa-address-book' aria-hidden='true'></i> Resume"
       url: "/assets/images/about/Kyungho's Resume.pdf"
