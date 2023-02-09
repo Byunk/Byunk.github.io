@@ -4,30 +4,19 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Algorithm"
-    url: /categories/algorithm/
 
 sidebar-category:
   - title: "Algorithm (c++)"
     children:
       - title: "Algorithm Study"
         url: /algorithm/
-      - title: "baekjoon (kor)"
-        url: /baekjoon/
 
   - title: "Projects"
-    children:
-      - title: "pintOS"
-        url: /pintos/
-      - title: "Meetup"
-        url: /meetup/
-      - title: "ALLCL"
-        url: /allcl/
-      - title: "Treevial"
-        url: /treevial/
+    url: /projects/
 
   - title: "Records"
     children:
       - title: "Books"
         url: "https://zenith-billboard-ae7.notion.site/8994dd1315e34e608277d49103da78c2"
+        # url: /books/
       - title: "Investment"
