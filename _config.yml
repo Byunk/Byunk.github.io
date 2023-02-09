@@ -222,6 +222,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values: 
+      layout: single
+      author_profile: true
+      share: true
   # _algorithm
   - scope:
       path: ""
@@ -260,9 +268,12 @@ defaults:
 
 # Collections
 collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
   algorithm:
     output: true
-    permalink: //:collection/:path/
+    permalink: /:collection/:path/
   baekjoon:
     output: true
     permalink: /:collection/:path/

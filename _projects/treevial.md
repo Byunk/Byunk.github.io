@@ -1,13 +1,22 @@
 ---
 title: Treevial
+excerpt: "기업-산주 간 탄소배출권 중개 플랫폼"
 layout: single
 permalink: /treevial/
 author_profile: true
 toc: true
 toc_sticky: true
+header:
+  image: /assets/images/treevial/mainpage.png
+  teaser: /assets/images/treevial/logo.png
+gallery:
+  - url: /assets/images/treevial/treevial1.png
+    image_path: /assets/images/treevial/treevial1.png
+  - url: /assets/images/treevial/treevial2.png
+    image_path: /assets/images/treevial/treevial2.png
+  - url: /assets/images/treevial/treevial4.png
+    image_path: /assets/images/treevial/treevial4.png
 ---
-
-<p align="center"><img src="/assets/images/treevial/mainpage.png" height="250px" width="500px"></p>
 
 ## 기업-산주 간 탄소배출권 중개 플랫폼.
 
@@ -63,20 +72,7 @@ Framework : [Jira](https://www.atlassian.com/software/jira)
 "react-native": "0.70.4"
 ```
 
-<p style="width:50%;height:400px;float:left;overflow:hidden;">
-<img alt="1" src="/assets/images/treevial/treevial1.png"  style="height:100%;"/>
-</p>
-<p style="width:50%;height:400px;overflow:hidden;">
-<img alt="2" src="/assets/images/treevial/treevial2.png"  style="height:100%;"/>
-</p>
-
-<p style="width:50%;height:400px;float:left;overflow:hidden;">
-<img alt="1" src="/assets/images/treevial/treevial3.png"  style="height:100%;"/>
-</p>
-<p style="width:50%;height:400px;overflow:hidden;">
-<img alt="2" src="/assets/images/treevial/treevial4.png"  style="height:100%;"/>
-</p>
-
+{% include gallery caption="In app screenshots" %}
 
 ### Backend
 
