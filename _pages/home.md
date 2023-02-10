@@ -18,10 +18,10 @@ intro:
 feature_row:
   - image_path: /assets/images/algorithm.jpg
     alt: "algorithm main"
-    title: "Algorithm"
+    title: "Algorithms"
     excerpt: "Challenging Baekjoon(KR) & Leetcode Algorithm Problems"
     image_caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-    url: "/algorithm/"
+    url: "/algorithms/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/books.jpg
