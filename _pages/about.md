@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 ---
 
-![profile](/assets/images/image_portfolio.jpeg){: width="25%" height="25%" .align-right}
+![profile](/assets/images/about/profile.jpeg){: width="25%" height="25%" .align-right}
 
 # Contact
 ___

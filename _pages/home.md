@@ -37,7 +37,7 @@ feature_row:
     title: "Histories"
     excerpt: "My own histories."
     image_caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-    url: "/"
+    url: "/histories/"
     btn_class: "btn--primary"
     btn_label: "Read more"
 feature_row2:
