@@ -1,8 +1,5 @@
 ---
 title: 리스트, 스택, 큐
-categories: 
-  - algorithms
-relative: true
 comments: true
 ---
 

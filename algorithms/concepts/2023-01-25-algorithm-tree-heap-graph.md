@@ -1,8 +1,5 @@
 ---
 title: 트리, 힙, 그래프
-categories: 
-  - algorithms
-relative: true
 comments: true
 ---
 

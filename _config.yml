@@ -127,7 +127,7 @@ author:
       url: "https://github.com/Byunk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/kyungho_byoun/"
 
 # Site Footer
 footer:
@@ -295,7 +295,7 @@ defaults:
       toc_label: Table of Contents
       toc_sticky: true
       sidebar:
-        nav: "sidebar-category"
+        nav: "sidebar"
   # _pages
   - scope:
       path: ""
@@ -303,6 +303,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "sidebar"
   # _projects
   - scope:
       path: ""
@@ -312,12 +314,12 @@ defaults:
       author_profile: true
       share: true
       search: false
+      sidebar:
+        nav: "sidebar"
 
 # Collections
 collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  pintos:
-    output: true
-    permalink: /:collection/:path/
+

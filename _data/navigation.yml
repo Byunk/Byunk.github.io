@@ -5,18 +5,19 @@ main:
   - title: "Projects"
     url: /projects/
 
-sidebar-category:
-  - title: "Algorithm (c++)"
+sidebar:
+  - title: "Algorithms"
     children:
-      - title: "Algorithm Study"
-        url: /algorithm/
-
+      - title: "Algorithm Concepts"
+        url: /algorithms/concepts/
+      - title: "LeetCode"
+        url: /algorithms/leetcode/
   - title: "Projects"
     url: /projects/
-
-  - title: "Records"
+  - title: "Books"
+    url: "https://zenith-billboard-ae7.notion.site/8994dd1315e34e608277d49103da78c2"
+  - title: "Histories"
     children:
-      - title: "Books"
-        url: "https://zenith-billboard-ae7.notion.site/8994dd1315e34e608277d49103da78c2"
-        # url: /books/
-      - title: "Investment"
+      - title: "Coding"
+        url: /histories/
+      - title: "Records"
