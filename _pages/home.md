@@ -9,7 +9,7 @@ header:
     - label: "<i class='fa fa-user' aria-hidden='true'></i> Who am I?"
       url: "/about/"
     - label: "<i class='fa fa-address-book' aria-hidden='true'></i> Resume"
-      url: "/assets/images/about/Kyungho's Resume.pdf"
+      url: "/assets/others/resume.pdf"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: >
   Project C. Perfect place to learn, enjoy and relax. Made by Kyungho Byoun. <br />

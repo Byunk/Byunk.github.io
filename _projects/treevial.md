@@ -80,15 +80,13 @@ Framework : [Jira](https://www.atlassian.com/software/jira)
 "spring-boot": "2.7.2",
 ```
 
-[API-docs](/assets/images/treevial/(Treevial)API%20기능정리.pdf)
-
-[ER-diagram](/assets/images/treevial/(Treevial)er-diagram.pdf)
-
-[Integration-test](/assets/images/treevial/(Treevial)통합_테스트_결과서.pdf)
+[<i class='fa fa-address-book' aria-hidden='true'></i> API-docs](/assets/others/treevial/api_docs.pdf){: .btn .btn--info}
+[<i class='fa fa-address-book' aria-hidden='true'></i> ER-diagram](/assets/others/treevial/er_diagram.pdf){: .btn .btn--info}
+[<i class='fa fa-address-book' aria-hidden='true'></i> Integrated-test](/assets/others/treevial/test_result.pdf){: .btn .btn--info}
 
 ### Business Model
 
-[business-logic-diagram](/assets/images/treevial/(Treevial)business-logic.pdf)
+[<i class='fa fa-address-book' aria-hidden='true'></i> Business-logic-diagram](/assets/others/treevial/business_logic.pdf){: .btn .btn--info}
 
 ## 프로젝트 결과
 

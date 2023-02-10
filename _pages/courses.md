@@ -4,21 +4,22 @@ layout: single
 permalink: /courses/
 author_profile: true
 toc: true
+toc_sticky: true
 ---
 
 # KAIST
 
-*I'm in the Bacheor program at KAIST now*
+___
 
-2017.02 - now
+*Currently Bachelor Program at KAIST*
+
+2017.02 - present
 
 *2020.10 - 2022.07 Military Service
 
 # Course History
 
-## Prerequisite
-
-### CS
+## CS
 
 | No.   | Course Name               |Grade|
 |-------|----------------------------|----|
@@ -33,7 +34,7 @@ toc: true
 | CS376 | Machine Learning           | A- |
 | CS470 | Introduction to AI         | A0 |
 
-### AE
+## AE
 
 | No.   | Course Name               |Grade|
 |-------|----------------------------|----|

@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 ---
 
-![profile](/assets/images/image_portfolio.jpeg){: width="25%" height="25%"}
+![profile](/assets/images/image_portfolio.jpeg){: width="25%" height="25%" .align-right}
 
 # Contact
 ___
@@ -18,16 +18,16 @@ Github : [Byunk](http://github.com/byunk)
 
 LinkedIn : [Kyungho Byoun](https://www.linkedin.com/in/kyungho-byoun-49b262240/)
 
+[<i class='fa fa-address-book' aria-hidden='true'></i> Resume](/assets/others/resume.pdf){: .btn .btn--info}
+
+[Read more Fun Projects!](/projects/){: .btn .btn--primary}
+
 <br>
 
 # Introduction
 ___
 
 Proactive, motivated Junior Software Engineer with high interest in backend development and project management. Experienced in leading projects and designing solutions to specific problems.
-
-## <i class='fa fa-address-book' aria-hidden='true'></i> [Resume](/assets/images/about/Kyungho's%20Resume.pdf)
-
-## [See my projects!](/projects/)
 
 <br>
 
@@ -40,7 +40,7 @@ ___
 
 KAIST(Korea Advanced Institute of Science and Technology)
 
-[Course History](/courses/)
+[Course History](/courses/){: .btn .btn--primary}
 
 <br>
 
