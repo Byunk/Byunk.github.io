@@ -10,8 +10,8 @@ sidebar:
     children:
       - title: "Algorithm Concepts"
         url: /algorithms/concepts/
-      - title: "LeetCode"
-        url: /algorithms/leetcode/
+      - title: "LeetCodes"
+        url: /algorithms/leetcodes/
   - title: "Projects"
     url: /projects/
   - title: "Books"

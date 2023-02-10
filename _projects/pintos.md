@@ -9,7 +9,7 @@ header:
   image: /assets/images/pintos/kernel_panic.jpg
   teaser: /assets/images/pintos/kernel_panic.jpg
 sidebar:
-  nav: "sidebar-category"
+  nav: "sidebar"
 ---
 
 {% assign posts = site.categories.pintOS %}
