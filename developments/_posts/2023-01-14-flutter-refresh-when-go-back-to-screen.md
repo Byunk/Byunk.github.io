@@ -1,5 +1,6 @@
 ---
-title: "Flutter: Refresh when go back to screen"
+title: "[Flutter] Refresh when go back to screen"
+except: Mongoose starting guides with TypeScript
 tags:
   - Flutter
 comments: true
