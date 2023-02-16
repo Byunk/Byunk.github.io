@@ -1,6 +1,6 @@
 ---
 title: '[Mongoose] How to start mongoose with TypeScript?'
-except: Mongoose starting guides with TypeScript
+excerpt: "Mongoose starting guides with TypeScript"
 tags:
   - Mongoose
 comments: true

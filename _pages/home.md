@@ -24,7 +24,7 @@ feature_row:
     url: "/algorithms/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/books.jpg
+  - image_path: /assets/images/developments.jpg
     alt: "developments main"
     title: "Developments"
     excerpt: "Development logs and side projects<br /><br />"
@@ -32,12 +32,12 @@ feature_row:
     url: "/developments/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/coming-soon.jpg
-    alt: "history main"
-    title: "Histories"
-    excerpt: "My own histories.<br /><br />"
+  - image_path: /assets/images/histories.jpg
+    alt: "records main"
+    title: "Records"
+    excerpt: "My own records. Daily life, travel history, and interests.<br />"
     image_caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-    url: "/histories/"
+    url: "/records/"
     btn_class: "btn--primary"
     btn_label: "Read more"
 feature_row2:
