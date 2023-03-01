@@ -43,6 +43,10 @@ words[i] consists of lowercase English letters.
 
 There are two cases can occur. 1. word is a palindrome itself. 2. word is not a palindrome. In first case, we should focus on the number of palindrome words. The only one palindrome word whose number is odd can be used in the longest palindrome. All others palindrome words should be paired. In second case, all paired non-palindrome words can be used in the longest palindrome.
 
+### Data structure
+
+To pair words accompanying a linear search. With a vector, this kind of linear search needs O(n) time complexity. However, `Hash Map` can be reduced this time complexity to O(1).
+
 ### Source Code
 
 [<i class='fa fa-address-book' aria-hidden='true'></i> Read in Github](https://github.com/Byunk/LeetCode/blob/master/2131-longest-palindrome-by-concatenating-two-letter-words/2131-longest-palindrome-by-concatenating-two-letter-words.cpp){: .btn .btn--info}
@@ -51,12 +55,6 @@ There are two cases can occur. 1. word is a palindrome itself. 2. word is not a 
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
-        // Two cases should be considered
-        // 1. symmetric case
-        // The most frequent symmetric cases can be used on maximum length Palindrome
-        // Then even numbers of remained symmetric cases can be used.
-        // 2. unsymmetric case
-        // only one case whose number of words is odd can be used
         int n = words.size();
         unordered_map<string, int> sym;
         unordered_map<string, int> unsym;
