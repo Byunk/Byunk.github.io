@@ -6,7 +6,7 @@ Toc = true
 
 My name is kyungho and I am living in Seoul, Korea
 
-{{< figure src="/img/profile2.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;" caption="This is the most recent photo of mine. There is too lack of photos of me at the moment." captionPosition="left" captionStyle="color: black;">}}
+{{< figure src="/img/profile/main.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;" caption="When I was traveling around Istanbul, Turkey" captionPosition="center" captionStyle="color: black;">}}
 
 ## Academics
 
@@ -38,11 +38,22 @@ In the second semester of 2022, I led a startup team called Treevial, consisting
 
 In between semesters, I worked twice as an undergraduate research intern at the [STRATEGIC AEROSPACE INITIATIVE Lab](http://sai.kaist.ac.kr/), KAIST. The main focus of my research was on routing problems, and I successfully reproduced few papers using Matlab.
 
-## Interests
+## Academic Interests
+
+-   I am an open source contributor
+    -   [sql-metadata](https://github.com/macbre/sql-metadata)
+-   Recently, I have found fun solving competitive programming questions. I am work in progress.
+    -   [Leetcode](https://github.com/Byunk/Leetcode)
+    -   [Baekjoon: Korean competitive programming question archieve](https://github.com/Byunk/Baekjoon)
+
+## What I Love
+
+-   I am a Ryan lover.
+
+{{< figure src="/img/profile/ryan.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;">}}
 
 -   I usually end up the week with [Spurs](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.). My favorite player is obviously Sonny.
 -   I also love playing soccer and futsal. I was even a school representative when I was in elementary school.
--   I am a minimalist. I also believe that buying a high-quality one that lasts a long time has more value than buying something cheap and worthless.
+-   I am a minimalist. I am participating in [project 333 challenge](https://bemorewithless.com/project-333-challenge/).
 -   I want to be a passionate reader. I read books, articles, and some business reports. I am a big fan of Dale Carnegie. I often read 10K reports by businesses for fun.
--   Recently, I have found fun solving competitive programming questions. I am work in progress.
 -   I am obssessed with Warren Buffett. Not only his noticeble legend of investing, but also his philosophy. He have sticked to his own principle throughout his entire life. He does not invest in businesses that he does not understand, and he always shares his knowledge with the public. I am a shareholder of Berkshire, and attending its shareholder meeting is one of my bucket list items.
