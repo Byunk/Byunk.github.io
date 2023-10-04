@@ -7,7 +7,14 @@ paginate = 5
 
 # For embedding iframe
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe= true
+
+enableRobotsTXT = true
+
+[sitemap]
+  changeFreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = -1
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -60,14 +67,6 @@ unsafe= true
 
   defaultContentLanguageInSubdir = true
   defaultLanguage = "English"
-
-
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
 
 [languages]
     [languages.kr]
