@@ -12,7 +12,7 @@ googleAnalytics = 'G-4XJWGEY8N5'
 [markup.goldmark.renderer]
   unsafe= true
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [sitemap]
   changeFreq = 'weekly'
