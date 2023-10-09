@@ -1,4 +1,5 @@
 baseurl = "https://kyungho.me"
+title = "KyunghoHub"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -73,8 +74,6 @@ enableRobotsTXT = true
 [languages]
     [languages.kr]
       languageName = "한국어"
-      title = "Byunk"
-      subtitle = "Kyungho's space"
       owner = "변경호"
       keywords = ""
       copyright = "Kyungho, Byoun"
@@ -90,8 +89,8 @@ enableRobotsTXT = true
 	  contentDir = "content/kr"
 
     [languages.kr.params.logo]
-      logoText = "Byunk"
-      logoHomeLink = "/"
+      logoText = "KyunghoHub"
+      logoHomeLink = "/kr"
 
     [languages.kr.menu]
       [[languages.kr.menu.main]]
@@ -121,8 +120,6 @@ enableRobotsTXT = true
 
     [languages.en]
       languageName = "English"
-      title = "Byunk"
-      subtitle = "Kyungho's space"
       owner = "Kyungho Byoun"
       keywords = ""
       copyright = "Kyungho, Byoun"
@@ -139,7 +136,7 @@ enableRobotsTXT = true
 	  contentTypeName = "posts"
 
     [languages.en.params.logo]
-      logoText = "Byunk"
+      logoText = "KyunghoHub"
       logoHomeLink = "/"
 
     [languages.en.menu]
