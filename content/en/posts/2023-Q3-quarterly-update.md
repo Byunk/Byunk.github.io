@@ -1,6 +1,7 @@
 +++
 title = "2023 Q3 Quarterly update"
 summary = "2023 Q3 summary"
+date = "2023-10-01"
 toc = true
 +++
 

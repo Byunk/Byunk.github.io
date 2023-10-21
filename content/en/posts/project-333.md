@@ -1,0 +1,43 @@
++++
+title = "Project 333"
+summary = "Project 333: The minimalist fashion challenge"
+date = "2023-10-21"
+toc = true
++++
+
+## Project 333
+
+In a world filled with endless choices and fast fashion, the idea of simplifying our lives has never been more appealing. [Project 333](https://bemorewithless.com/project-333/), a minimalist fashion challenge created by Courtney Carver, is here to help us do just that. The concept is straightforward yet transformative: wear only 33 items of clothing for three months. It may seem like a daunting task, but the benefits that this challenge offers are worth every piece of clothing you decide to put away. From simplifying your mornings to changing the way you shop, Project 333 can have a profound impact on your life.
+
+I got hooked on this idea and jumped into the challenge in July 2023. For the first three months, my life got simpler and less stressful. No more wasting time and money on cheap, throwaway clothes; now I can invest in quality, even if it costs a bit more. It's not just better for the environment but also for your wallet. Less really is more. I'm loving this concept. As a result, my life is happier and more fulfilling. I just finished my first three months with Project 333, and now I'm gearing up for the next round. So, let me share my thoughts from practicing this challenge.
+
+1. **Know Yourself**: To buy the right clothes, you've got to know yourself. What's your correct size, and what's your style?
+
+2. **Quality Over Cheap Stuff**: Buying higher-quality, though pricier, clothes is actually cheaper in the long run than investing in cheap, disposable items.
+
+3. **Stick to Your Preferred Brands**: Every brand has its own unique approach to creating new products. If you take note of the brands that consistently offer clothes you like, you can save a ton of time when choosing what to wear.
+
+## My closet
+
+Here is my closet archieve. This project is ongoing, but I'm seeking to fill up my closet with clothes I will own for a lifetime.
+
+### F/W
+
+-   Sweat Shirt (navy, light grey, black)
+
+## Wish List
+
+-   **Outer**
+    -   [Balmacan Coat](https://bastong.co.kr/product/180/1419/category/64/display/1/)
+    -   [Double Coat](https://bastong.co.kr/product/178/1415/category/64/display/1/)
+    -   [Pilot Coat Primo](https://www.kolonmall.com/Product/AHCAW23611KHD)
+    -   [Spitfire Coat](https://www.kolonmall.com/Product/AHCAW23791BRX?itm_sp=%2FBrand%2F4947%2FSpecial%2F235977&brand=4947)
+    -   [Spitfire Down Jumper](https://www.kolonmall.com/Product/AHUDW23301CMX?brand=4947)
+    -   [Shirt Blouson](https://www.lacoste.com/kr/lacoste/men/%EC%9D%98%EB%A5%98/%EC%9E%90%EC%BC%93-%EC%BD%94%ED%8A%B8/%EC%85%94%EC%B8%A0%ED%98%95-%EB%8B%A4%EC%9A%B4-%EB%B8%94%EB%A3%A8%EC%A2%85/BH593E-53N.html)
+    -   [Denim Jacket](https://www.arket.com/ko-kr/men/shirts/overshirts/product.denim-jacket-dark-blue.1185306001.html)
+-   **Shirt**
+    -   [Corduroy](https://www.arket.com/ko-kr/men/shirts/product.corduroy-overshirt-off-white.1001643008.html)
+    -   [Twill](https://www.arket.com/ko-kr/men/c/spring-icons3/product.cotton-twill-overshirt-ecru.0984994004.html)
+-   **Knit**
+    -   [Filobisknot](https://filobisknot.com/product/20FWFILOKN01)
+    -   [Harley of Scotland](https://mustit.co.kr/product/product_detail/16350215)
