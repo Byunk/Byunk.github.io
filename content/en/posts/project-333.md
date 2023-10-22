@@ -38,8 +38,11 @@ Here is my closet archieve. This project is ongoing, but I'm seeking to fill up 
     -   [Spitfire Down Jumper](https://www.kolonmall.com/Product/AHUDW23301CMX?brand=4947)
     -   [Shirt Blouson](https://www.lacoste.com/kr/lacoste/men/%EC%9D%98%EB%A5%98/%EC%9E%90%EC%BC%93-%EC%BD%94%ED%8A%B8/%EC%85%94%EC%B8%A0%ED%98%95-%EB%8B%A4%EC%9A%B4-%EB%B8%94%EB%A3%A8%EC%A2%85/BH593E-53N.html)
 -   **Shirt**
-    -   [Corduroy](https://www.arket.com/ko-kr/men/shirts/product.corduroy-overshirt-off-white.1001643008.html)
-    -   [Twill](https://www.arket.com/ko-kr/men/c/spring-icons3/product.cotton-twill-overshirt-ecru.0984994004.html)
+    -   Denim
 -   **Knit**
     -   [Filobisknot](https://filobisknot.com/product/20FWFILOKN01)
     -   [Harley of Scotland](https://mustit.co.kr/product/product_detail/16350215)
+-   **Pants**
+    -   [Chino Pants](https://store-kr.uniqlo.com/display/showDisplayCache.lecs?goodsNo=NQ31147107&displayNo=NQ1A01A12A06&stonType=P&storeNo=83&siteNo=50706#)
+    -   [Slacks](https://bylegacy.co.kr/category/slacks/45/)
+-   **Scarf**
