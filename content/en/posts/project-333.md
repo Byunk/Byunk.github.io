@@ -23,18 +23,20 @@ Here is my closet archieve. This project is ongoing, but I'm seeking to fill up 
 
 ### F/W
 
--   Sweat Shirt (navy, light grey, black)
+-   **Outer (1)**
+    -   Pilot Coat Primo
+-   **Top (3)**
+    -   Sweat Shirt (navy, light grey, black)
+-   **Pants (3)**
+    -   Slacks (black, cream)
+    -   Jeans (light blue)
 
 ## Wish List
 
 -   **Outer**
-    -   [Balmacan Coat](https://bastong.co.kr/product/180/1419/category/64/display/1/)
-    -   [Double Coat](https://bastong.co.kr/product/178/1415/category/64/display/1/)
-    -   [Pilot Coat Primo](https://www.kolonmall.com/Product/AHCAW23611KHD)
     -   [Spitfire Coat](https://www.kolonmall.com/Product/AHCAW23791BRX?itm_sp=%2FBrand%2F4947%2FSpecial%2F235977&brand=4947)
     -   [Spitfire Down Jumper](https://www.kolonmall.com/Product/AHUDW23301CMX?brand=4947)
     -   [Shirt Blouson](https://www.lacoste.com/kr/lacoste/men/%EC%9D%98%EB%A5%98/%EC%9E%90%EC%BC%93-%EC%BD%94%ED%8A%B8/%EC%85%94%EC%B8%A0%ED%98%95-%EB%8B%A4%EC%9A%B4-%EB%B8%94%EB%A3%A8%EC%A2%85/BH593E-53N.html)
-    -   [Denim Jacket](https://www.arket.com/ko-kr/men/shirts/overshirts/product.denim-jacket-dark-blue.1185306001.html)
 -   **Shirt**
     -   [Corduroy](https://www.arket.com/ko-kr/men/shirts/product.corduroy-overshirt-off-white.1001643008.html)
     -   [Twill](https://www.arket.com/ko-kr/men/c/spring-icons3/product.cotton-twill-overshirt-ecru.0984994004.html)
