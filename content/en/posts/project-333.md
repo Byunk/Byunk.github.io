@@ -17,32 +17,85 @@ I got hooked on this idea and jumped into the challenge in July 2023. For the fi
 
 3. **Stick to Your Preferred Brands**: Every brand has its own unique approach to creating new products. If you take note of the brands that consistently offer clothes you like, you can save a ton of time when choosing what to wear.
 
-## My closet
+## My Closet
 
-Here is my closet archieve. This project is ongoing, but I'm seeking to fill up my closet with clothes I will own for a lifetime.
+Welcome to my clothing archive. This project is ongoing, as I curate a collection of timeless pieces for my wardrobe.
 
-### F/W
+### F/W Collection (29 Items)
 
--   **Outer (1)**
-    -   Pilot Coat Primo
--   **Top (3)**
-    -   Sweat Shirt (navy, light grey, black)
--   **Pants (3)**
-    -   Slacks (black, cream)
-    -   Jeans (light blue)
+**Outwear (3)**
+
+-   [Pilot Coat Primo (khaki)]()
+-   [Single Coat (dark brown)]()
+-   [Shirt Jacket (beige)]()
+
+**Tops (16)**
+
+-   [Oxford Shirt (white, grey)]()
+-   [Cotton Shirt (green)]()
+-   [Sweatshirt (navy, light grey, black)]()
+-   [Knitwear (black, grey(2), greyish khaki)]()
+-   [Waffle Knit (grey, light grey, navy)]()
+-   [Turtleneck Knit (black, cream)]()
+-   [Hoodie (charcoal)]()
+
+**Bottoms (6)**
+
+-   [Semi-wide Slacks (black, cream)]()
+-   [Semi-wide Jeans (light blue, white, black)]()
+-   [Straight Jeans (black)]()
+
+**Accessories (1)**
+
+-   [Cashmere Scarf (grey check pattern)]()
+
+**Footwear (3)**
+
+-   [New Balance 576 (light grey)]()
+-   [Dr. Martens Walker (brown)]()
+-   [Romantic Move Chelsea Boots (black)]()
 
 ## Wish List
 
--   **Outer**
-    -   [Spitfire Coat](https://www.kolonmall.com/Product/AHCAW23791BRX?itm_sp=%2FBrand%2F4947%2FSpecial%2F235977&brand=4947)
-    -   [Spitfire Down Jumper](https://www.kolonmall.com/Product/AHUDW23301CMX?brand=4947)
-    -   [Shirt Blouson](https://www.lacoste.com/kr/lacoste/men/%EC%9D%98%EB%A5%98/%EC%9E%90%EC%BC%93-%EC%BD%94%ED%8A%B8/%EC%85%94%EC%B8%A0%ED%98%95-%EB%8B%A4%EC%9A%B4-%EB%B8%94%EB%A3%A8%EC%A2%85/BH593E-53N.html)
--   **Shirt**
-    -   Denim
--   **Knit**
-    -   [Filobisknot](https://filobisknot.com/product/20FWFILOKN01)
-    -   [Harley of Scotland](https://mustit.co.kr/product/product_detail/16350215)
--   **Pants**
-    -   [Chino Pants](https://store-kr.uniqlo.com/display/showDisplayCache.lecs?goodsNo=NQ31147107&displayNo=NQ1A01A12A06&stonType=P&storeNo=83&siteNo=50706#)
-    -   [Slacks](https://bylegacy.co.kr/category/slacks/45/)
--   **Scarf**
+**Outerwear**
+
+-   [Spitfire Coat](https://www.kolonmall.com/Product/AHCAW23791BRX?itm_sp=%2FBrand%2F4947%2FSpecial%2F235977&brand=4947)
+-   [Spitfire Down Jumper](https://www.kolonmall.com/Product/AHUDW23301CMX?brand=4947)
+-   [Shirt Blouson](https://www.lacoste.com/kr/lacoste/men/%EC%9D%98%EB%A5%98/%EC%9E%90%EC%BC%93-%EC%BD%94%ED%8A%B8/%EC%85%94%EC%B8%A0%ED%98%95-%EB%8B%A4%EC%9A%B4-%EB%B8%94%EB%A3%A2/BH593E-53N.html)
+
+**Shirts**
+
+-   Denim
+
+**Knitwear**
+
+-   [Harley of Scotland](https://mustit.co.kr/product/product_detail/16350215)
+
+**Pants**
+
+-   [Chino Pants](https://store-kr.uniqlo.com/display/showDisplayCache.lecs?goodsNo=NQ31147107&displayNo=NQ1A01A12A06&stonType=P&storeNo=83&siteNo=50706#)
+-   [Slacks](https://bylegacy.co.kr/category/slacks/)
+
+## Preferred Brands
+
+**Outerwear**
+
+-   [Henry Cotton's](https://www.kolonmall.com/HENRY-COTTONS)
+
+**Shirts**
+
+-   [Arket](https://www.arket.com/ko-kr/index.html)
+-   [Uniqlo](https://store-kr.uniqlo.com/display/displayShop.lecs?storeNo=83&siteNo=50706&displayNo=NQ1A13A07&displayMallNo=NQ1&stonType=P&storeNo=83&siteNo=50706)
+
+**Knitwear**
+
+-   [Zavanas](https://www.zavanas.com/index.html)
+
+**Pants**
+
+-   [Musinsa Standard](https://www.musinsa.com/brands/musinsastandard)
+
+**Jeans**
+
+-   [Mod9](https://www.musinsa.com/brands/modnine)
+-   [FATALISM](https://www.musinsa.com/brands/fatalism)
