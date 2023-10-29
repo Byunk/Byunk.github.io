@@ -21,7 +21,7 @@ I got hooked on this idea and jumped into the challenge in July 2023. For the fi
 
 Welcome to my clothing archive. This project is ongoing, as I curate a collection of timeless pieces for my wardrobe.
 
-### F/W Collection (29 Items)
+### F/W Collection (31 Items)
 
 **Outwear (3)**
 
@@ -39,21 +39,23 @@ Welcome to my clothing archive. This project is ongoing, as I curate a collectio
 -   [Turtleneck Knit (black, cream)]()
 -   [Hoodie (charcoal)]()
 
-**Bottoms (6)**
+**Bottoms (7)**
 
 -   [Semi-wide Slacks (black, cream)]()
 -   [Semi-wide Jeans (light blue, white, black)]()
 -   [Straight Jeans (black)]()
+-   [Chino Pants (cream)]()
 
 **Accessories (1)**
 
 -   [Cashmere Scarf (grey check pattern)]()
 
-**Footwear (3)**
+**Footwear (4)**
 
 -   [New Balance 576 (light grey)]()
 -   [Dr. Martens Walker (brown)]()
 -   [Romantic Move Chelsea Boots (black)]()
+-   [Converse Chuck 70 high]()
 
 ## Wish List
 
