@@ -28,7 +28,7 @@ enableRobotsTXT = false
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = true
@@ -109,10 +109,15 @@ enableRobotsTXT = false
         url = "/kr/posts"
         weight = 3
       [[languages.kr.menu.main]]
+        identifier = "books"
+        name = "책"
+        url = "/books"
+        weight = 4
+      [[languages.kr.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
         url = "https://www.linkedin.com/in/kyungho-byoun/"
-        weight = 4
+        weight = 5
       [[languages.kr.menu.main]]
         identifier = "github"
         name = "GitHub"
@@ -156,10 +161,15 @@ enableRobotsTXT = false
         url = "/posts"
         weight = 3
       [[languages.en.menu.main]]
+        identifier = "books"
+        name = "Books"
+        url = "/books"
+        weight = 4
+      [[languages.en.menu.main]]
         identifier = "linkedin"
         name = "LinkedIn"
         url = "https://www.linkedin.com/in/kyungho-byoun/"
-        weight = 4
+        weight = 5
       [[languages.en.menu.main]]
         identifier = "github"
         name = "GitHub"
