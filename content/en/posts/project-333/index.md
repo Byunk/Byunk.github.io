@@ -2,6 +2,7 @@
 title = "Project 333"
 summary = "Project 333: The minimalist fashion challenge"
 date = "2023-10-21"
+draft = true
 toc = true
 +++
 

@@ -17,7 +17,7 @@ I still remember this one time when Jeongyeon Na, a COOP intern from SNU, did a 
 
 I finally got a chance to try See's Candies, the legendary chocolate maker acquired by Buffett. I bought one chocolate and one toffee ettes before getting some for my mom as a Chuseok present. They had a somewhat intimidating price at 5000 won each. So, I decided to take a bite of each with my girlfriend. The taste was amazing, especially the toffee ettes; they were the best chocolates I've ever had in my entire life.
 
-{{< image src="/img/posts/sees_candies2.jpeg" alt="See's Candies" position="right" style="border-radius: 8px; width: 25%; margin: 0 auto;" >}}
+{{< image src="sees_candies2.jpeg" alt="See's Candies" position="right" style="border-radius: 8px; width: 25%; margin: 0 auto;" >}}
 
 ## Neovim
 

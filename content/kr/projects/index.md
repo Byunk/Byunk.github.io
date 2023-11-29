@@ -33,7 +33,7 @@ AI를 이용한 보이스피싱 탐지 어플리케이션으로 노인들을 대
 
 [데모](/demo/the-voice)
 
-{{< figure src="/img/the-voice/figma.png" alt="Hello Friend" position="center" style="border-radius: 8px; width:50%; margin: 0 auto;" >}}
+{{< figure src="the-voice-figma.png" alt="Hello Friend" position="center" style="border-radius: 8px; width:50%; margin: 0 auto;" >}}
 
 ### 체스 게임 승률 예측
 

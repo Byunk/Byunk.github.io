@@ -4,7 +4,7 @@ readingTime = false
 Toc = true
 +++
 
-{{< figure src="/img/profile/main.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;" caption="When I was traveling around Istanbul, Turkey" captionPosition="center" captionStyle="color: black;">}}
+{{< figure src="profile.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;" caption="When I was traveling around Istanbul, Turkey" captionPosition="center" captionStyle="color: black;">}}
 
 ## Academics
 

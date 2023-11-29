@@ -1,6 +1,11 @@
 baseurl = "https://kyungho.me"
-title = "KyunghoHub"
-languageCode = "en-us"
+title = "Byunk"
+languageCode = "kr"
+owner = "Kyungho Byoun"
+copyright = "Kyungho, Byoun"
+
+defaultContentLanguage = 'kr'
+
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
@@ -16,8 +21,6 @@ enableRobotsTXT = false
 
 [sitemap]
   changeFreq = 'weekly'
-  filename = 'sitemap.xml'
-  priority = -1
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -68,110 +71,71 @@ enableRobotsTXT = false
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
-  defaultContentLanguageInSubdir = true
-  defaultLanguage = "English"
-
 [languages]
     [languages.kr]
+      languageCode = "kr"
       languageName = "한국어"
-      owner = "변경호"
-      keywords = ""
-      copyright = "Kyungho, Byoun"
-      menuMore = "더보기"
-      readMore = "더보기"
-      readOtherPosts = "다른 글 보기"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
-	  contentDir = "content/kr"
+      contentDir = "content/kr"
 
     [languages.kr.params.logo]
-      logoText = "KyunghoHub"
+      logoText = "Byunk"
       logoHomeLink = "/kr"
 
     [languages.kr.menu]
       [[languages.kr.menu.main]]
-        identifier = "about"
         name = "소개"
-        url = "/kr/about"
+        pageRef = "/about"
         weight = 1
       [[languages.kr.menu.main]]
-        identifier = "projects"
         name = "프로젝트"
-        url = "/kr/projects"
+        pageRef = "/projects"
         weight = 2
       [[languages.kr.menu.main]]
-        identifier = "writings"
-        name = "글"
-        url = "/kr/posts"
+        name = "포스트"
+        pageRef = "/posts"
         weight = 3
       [[languages.kr.menu.main]]
-        identifier = "books"
-        name = "책"
-        url = "/books"
+        name = "독서"
+        pageRef = "/books"
         weight = 4
       [[languages.kr.menu.main]]
-        identifier = "linkedin"
         name = "LinkedIn"
         url = "https://www.linkedin.com/in/kyungho-byoun/"
         weight = 5
       [[languages.kr.menu.main]]
-        identifier = "github"
         name = "GitHub"
         url = "https://github.com/Byunk"	
 
     [languages.en]
       languageName = "English"
-      owner = "Kyungho Byoun"
-      keywords = ""
-      copyright = "Kyungho, Byoun"
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
-	  contentDir = 'content/en'
-	  contentTypeName = "posts"
+      contentDir = "content/en"
 
     [languages.en.params.logo]
-      logoText = "KyunghoHub"
-      logoHomeLink = "/"
+      logoText = "Byunk"
+      logoHomeLink = "/en"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
         name = "About"
-        url = "/about"
+        pageRef = "/about"
         weight = 1
       [[languages.en.menu.main]]
-        identifier = "projects"
         name = "Projects"
-        url = "/projects"
+        pageRef = "/projects"
         weight = 2
       [[languages.en.menu.main]]
-        identifier = "writings"
         name = "Writings"
-        url = "/posts"
+        pageRef = "/posts"
         weight = 3
       [[languages.en.menu.main]]
-        identifier = "books"
         name = "Books"
-        url = "/books"
+        pageRef = "/books"
         weight = 4
       [[languages.en.menu.main]]
-        identifier = "linkedin"
         name = "LinkedIn"
         url = "https://www.linkedin.com/in/kyungho-byoun/"
         weight = 5
       [[languages.en.menu.main]]
-        identifier = "github"
         name = "GitHub"
         url = "https://github.com/Byunk"
 

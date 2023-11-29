@@ -6,7 +6,7 @@ Toc = true
 
 My name is kyungho and I am living in Seoul, Korea
 
-{{< figure src="/img/profile/main.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;" caption="When I was traveling around Istanbul, Turkey" captionPosition="center" captionStyle="color: black;">}}
+{{< figure src="profile.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;" caption="When I was traveling around Istanbul, Turkey" captionPosition="center" captionStyle="color: black;">}}
 
 ## Academics
 
@@ -50,7 +50,7 @@ In between semesters, I worked twice as an undergraduate research intern at the 
 
 -   I am a Ryan lover.
 
-{{< figure src="/img/profile/ryan.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;">}}
+{{< figure src="ryan.jpg" position="center" style="border-radius: 8px; width: 35%; margin: 0 auto;">}}
 
 -   I usually end up the week with [Spurs](https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.). My favorite player is obviously Sonny.
 -   I also love playing soccer and futsal. I was even a school representative when I was in elementary school.
