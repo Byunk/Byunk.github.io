@@ -2,6 +2,7 @@
 title = "성공대화론"
 summary = "성공대화론 - 데일 카네기"
 date = "2023-11-05"
+type = "posts"
 +++
 
 {{< figure src="book.jpg" style="width: 35%; margin: 0 auto;" >}}
