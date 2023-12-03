@@ -31,7 +31,7 @@ enableRobotsTXT = false
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = true
