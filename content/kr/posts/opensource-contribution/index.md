@@ -1,11 +1,10 @@
 +++
-title = "오픈소스 컨트리뷰터"
+title = "오픈소스 컨트리뷰션"
+summary = "얼마 전 오픈소스 프로젝트인 [sql-metadata](https://github.com/macbre/sql-metadata)의 컨트리뷰터가 되었다."
 date = 2023-09-19T00:24:00+09:00
-draft = true
-tableOfContents = true
 +++
 
-얼마 전 오픈소스 컨트리뷰터가 되었다. [sql-metadata](https://github.com/macbre/sql-metadata)
+얼마 전 오픈소스 프로젝트인 [sql-metadata](https://github.com/macbre/sql-metadata)의 컨트리뷰터가 되었다.
 
 {{< figure src="mention-me.jpg" position="center" style="border-radius: 8px; width: 50%; margin: 0 auto;" >}}
 
