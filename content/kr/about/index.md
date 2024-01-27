@@ -1,7 +1,7 @@
 +++
 title = "Kyungho Ryan Byoun"
 readingTime = false
-Toc = true
+Toc = false
 +++
 
 <img clear="none" align="right" src="profile.jpg" style="height:200px; padding: 20px;" >
