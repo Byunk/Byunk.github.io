@@ -10,17 +10,28 @@ Toc = true
 
 [_Github Repository (Backend) ⧉_](https://github.com/gdsc-kaist/board-of-audit-and-inspection-system)
 
-GDSC KAIST에서 진행하는 KAIST 감사원의 회계 감사 프로세스 전산화 프로젝트입니다. Backend Team Lead를 맡아 총 5명으로 이루어진 팀의 개발을 주도했습니다.
+KAIST의 학생 동아리 및 자치 단체의 감사 프로세스는 모두 서면으로 진행되고 있습니다. 본 프로젝트는 과정을 전산화하기 위해 GDSC KAIST에서 진행중인 프로젝트입니다. 본 프로젝트에서 백엔드 팀 리드를 맡아 전반적인 백엔드 시스템 개발과 배포과정에 참여했습니다. 2024년 상반기부터 시범 운영을거쳐 2024년 하반기에 도입이 예정되어 있습니다.
 
-`Node.js`, `postgreSQL`, `Redis`를 활용해 시스템을 구축했고 dockerization, `Github actions`, AWS 배포 등의 작업을 진행했습니다.
+**Project Spec**
 
-`TDD`에 기반한 개발을 진행하고 있으며, 2024년 상반기부터 교내 서비스를 운영할 계획입니다.
+| Name | Email |
+|------|-------|
+|  프레임워크    |  `Express.js`     |
+|  데이터베이스    |    `postgreSQL`, `Redis` (session DB)    |
+|  테스트 커버리지     |  Unit test, Integration test    |
+|  배포 환경    | AWS EC2 |
+
+{{< figure src="bai-architecture.jpg" alt="BAI architecture" position="center" style="border-radius: 8px;" caption="감사원 프로젝트 백엔드 아키텍쳐" >}}
 
 ### Dotfiles
 
 [dotfiles ⧉ ](https://github.com/Byunk/dotfiles)
 
-어떤 환경에서도 동일한 개발환경을 쉽게 구성할 수 있도록 `Neovim`, `Tmux`, `zsh` 등의 설정 파일을 모아둔 레포지토리입니다. 기존에 bash script로 짜여진 설치 스크립트를 `Go`로 이전하기 위한 프로젝트를 기획 중입니다.
+개발환경 설정 아카이브 레포지토리
+
+**Goal**
+
+- bash script를 이용한 패키지 설치 및 설정 자동화
 
 ## 완료한 프로젝트
 
