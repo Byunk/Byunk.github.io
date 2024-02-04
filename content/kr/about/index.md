@@ -10,8 +10,7 @@ Toc = false
 
 SAP Labs Korea의 Cloud Data & Service Enablement Team에서 인턴으로 재직중입니다. 주로 Kubernetes를 이용한 MSA (micro-service architecture) 환경에서 발생하는 문제들을 푸는 프로젝트에 참여하고 있으며, 최근에는 [Istio](https://istio.io/)를 이용한 해결방법에 관심을 두고 활용하고 있습니다.
 
-[LinkedIn Profile](https://www.linkedin.com/in/kyungho-byoun/)
-
+<a href="https://cv.kyungho.me/" target="_blank">CV</a> / [LinkedIn Profile](https://www.linkedin.com/in/kyungho-byoun/)
 
 ## Career
 
