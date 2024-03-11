@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  src: url('https://fonts.gstatic.com/s/notosanskr/v10/Pby6FmXiEBPT4ITbgNA5CgmOelzI7rgQVnZydIj2J_Y.woff2') format('woff2');
+}
+
+.video-shortcode {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: 'Noto Sans KR', 'Fira Code';
+}
